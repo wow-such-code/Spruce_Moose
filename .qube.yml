@@ -1,0 +1,14 @@
+domain: portlet
+language: groovy
+project_name: Spruce Moose
+project_slug: Spruce_Moose
+project_short_description: A test portlet.
+template_version: '<function PortletCreator.create_template.<locals>.<lambda> at 0x108147710>
+  # <<QUBE_NO_BUMP>>'
+template_handle: portlet-groovy
+full_name: Homer Simpson
+email: homer.simpson@example.com
+copyright_holder: QBiC
+github_username: wow-such-code
+main_class_prefix: Moose
+version: 1.0.0-SNAPSHOT
